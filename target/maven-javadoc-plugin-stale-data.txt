@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/adrian/NetBeansProjects/proyectoLibre/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'proyectoLibre 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/adrian/NetBeansProjects/proyectoLibre/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'proyectoLibre 1.0-SNAPSHOT API'
+com.mycompany.proyectolibre
+/home/adrian/NetBeansProjects/proyectoLibre/src/main/java = 1622465061298
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/script.js = 1622573811547
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/element-list = 1622573810031
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/overview-tree.html = 1622573810199
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/constant-values.html = 1622573810083
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/help-doc.html = 1622573811543
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/type-search-index.js = 1622573811491
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/type-search-index.zip = 1622573811491
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/stylesheet.css = 1622573811547
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/search.js = 1622573811551
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/allclasses-index.html = 1622573811507
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/index.html = 1622573811531
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/index-all.html = 1622573811495
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/allclasses.html = 1622573811531
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/member-search-index.zip = 1622573811491
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/member-search-index.js = 1622573811491
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/allpackages-index.html = 1622573811511
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/package-search-index.js = 1622573810315
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/deprecated-list.html = 1622573811523
+/home/adrian/NetBeansProjects/proyectoLibre/target/site/apidocs/package-search-index.zip = 1622573811487
